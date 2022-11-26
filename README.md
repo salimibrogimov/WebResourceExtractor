@@ -1,6 +1,6 @@
 # WebResourceExtractor
 
-Simple and lighweight PHP class for dowloading Web pages.
+Simple and lightweight PHP class for downloading Web pages.
 
 Examples on how to use this class.
 ```
