@@ -2,6 +2,11 @@
 
 Simple and lightweight PHP class for downloading Web pages.
 
+Download via composer:
+```
+composer require salimibrohimi/web-resource-extractor
+```
+
 Examples on how to use this class.
 ```
 $extractor = new WebResourceExtractor(true, '/cache/', 3600);
