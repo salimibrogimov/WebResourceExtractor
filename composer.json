@@ -2,7 +2,7 @@
     "name": "salimibrohimi/web-resource-extractor",
     "description": "Simple and lightweight PHP class for downloading Web pages.",
     "license": "GPL-3.0-or-later",
-    "minimum-stability": "1.0",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=7.4"
     }
